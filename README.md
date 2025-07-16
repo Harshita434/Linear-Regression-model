@@ -1,1 +1,1 @@
-# Linear-Regression-model
+This project demonstrates the fundamental concepts of linear regression,a foundational machine learning algorithm used for predictive analysis.The model aims to establish a linear relationship between a dependent variable and one or more independent variables.
